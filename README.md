@@ -1,12 +1,3 @@
-# Let's Chat
-
-A real-time chat application. Another fun side project :)
-
-![Screenshot from 2022-09-07 16-27-25](https://user-images.githubusercontent.com/66206865/188901222-8eefabe5-8ca2-4305-aeb3-3afa37b304b3.png)
-
-![Screenshot from 2022-09-07 17-11-16](https://user-images.githubusercontent.com/66206865/188900580-01d0d3ca-b242-4f48-99cf-96edeeb5f1db.png)
-
-GIFs are attached at the end.
 
 ## Technologies Used
 
