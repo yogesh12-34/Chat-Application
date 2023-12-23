@@ -1,26 +1,11 @@
-const generateDiceBearAvataaars = (seed) =>
-  `https://avatars.dicebear.com/api/avataaars/${seed}.svg`;
-
-const generateDiceBearBottts = (seed) =>
-  `https://avatars.dicebear.com/api/bottts/${seed}.svg`;
-
-const generateDiceBearGridy = (seed) =>
-  `https://avatars.dicebear.com/api/gridy/${seed}.svg`;
-
 export const generateAvatar = () => {
-  const data = [];
-
-  for (let i = 0; i < 2; i++) {
-    const res = generateDiceBearAvataaars(Math.random());
-    data.push(res);
-  }
-  for (let i = 0; i < 2; i++) {
-    const res = generateDiceBearBottts(Math.random());
-    data.push(res);
-  }
-  for (let i = 0; i < 2; i++) {
-    const res = generateDiceBearGridy(Math.random());
-    data.push(res);
-  }
+  const data = [
+    "https://api.dicebear.com/7.x/adventurer/svg?seed=Maggie",
+    "https://api.dicebear.com/7.x/adventurer/svg?seed=Pepper",
+    "https://api.dicebear.com/7.x/adventurer/svg?seed=Toby",
+    "https://api.dicebear.com/7.x/adventurer/svg?seed=Pumpkin",
+    "https://api.dicebear.com/7.x/adventurer/svg?seed=Boots",
+    "https://api.dicebear.com/7.x/adventurer/svg?seed=Cuddles"
+  ];
   return data;
 };
