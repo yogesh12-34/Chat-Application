@@ -46,11 +46,3 @@ To run this project locally, follow these steps:
 7. The application will be accessible at `http://localhost:3000`.
 
 Please make sure to keep the `serviceAccountKey.json` file and sensitive information secure and not commit them to version control.
-
-## GIFs
-
-![chrome-capture-2022-8-7](https://user-images.githubusercontent.com/66206865/188901119-65a05b65-3c76-4c3f-92c5-042d061df8e1.gif)
-
-![chrome-capture-2022-8-7 (1)](https://user-images.githubusercontent.com/66206865/188900841-2dfe91c2-eb78-4f70-a013-babe0124ee68.gif)
-
-![chrome-capture-2022-8-7 (2)](https://user-images.githubusercontent.com/66206865/188900662-a120aef4-ced1-442b-98dd-ab90b4cea7b5.gif)
